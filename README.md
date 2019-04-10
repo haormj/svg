@@ -33,8 +33,12 @@ svg大小为128px
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
+        <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
+        <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
     </tr>
     <tr>
+        <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
+        <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
