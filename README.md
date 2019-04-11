@@ -30,7 +30,7 @@ svg大小为128px
 <table border=1 cellspacing=0>
     <tr>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
-        <td><img src="./haormj-webdings.svg" heigth="128px" width="128px"/></td>
+        <td><img src="./diy/haormj-webdings.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
