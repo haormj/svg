@@ -31,7 +31,7 @@ svg大小为128px
     <tr>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/haormj-webdings.svg" heigth="128px" width="128px"/></td>
-        <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
+        <td><img src="./diy/baby.svg.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
         <td><img src="./diy/bear.svg" heigth="128px" width="128px"/></td>
